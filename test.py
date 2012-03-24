@@ -12,7 +12,7 @@ if 10 < 20:
 fart = 15
 
 if fart > 5:
-	print "Peench is big"
+	print "Peench is biggest"
 	print "And this is still in the thing"
 else:
 	print "Fart is small"
